@@ -1,2 +1,2 @@
 # react-redux-startkit
-ssss
+React start kit for medium size projects
